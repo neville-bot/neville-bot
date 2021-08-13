@@ -13,7 +13,7 @@ hello! I'm John, Welcome to my Github!
 </p>
 
 <h1>
-  A little bit about me :point_down:
+  A little bit about me :mag:
 </h1>
 
 <ul> 
