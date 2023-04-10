@@ -17,8 +17,8 @@ hello! I'm John, Welcome to my Github!
 </h1>
 
 <ul> 
-<li>I'm building a Twitter Clone -- using JS/CSS/React/Express :bird:</li>
-<li>I’m learning advanced React(Fragments, Portals, Proptypes) and building a small game :telescope:</li>
+<li>I work at Deft :robot:</li>
+<li>I love working in the React ecosystem :telescope:</li>
 <li>You can reach me at jnevin17@gmail.com anytime Mon - Fri, 10am - 2pm :mailbox:</li>
 <li>Check out my portfolio right <a href="https://www.johnevin.com">here</a> :electric_plug:</li> 
  </ul>
